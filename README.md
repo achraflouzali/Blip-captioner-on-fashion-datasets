@@ -53,18 +53,17 @@ On peut comparer les résultats du captioning avant et après le finetuning du m
   <tr>
     <td align="center">
       <strong>Before fintuning the model </strong>
-      <br>
       <img src="kaggcap_220.jpg" alt="Image 1" style="width:400px; height:400px;">
       <br>
       <strong>a white watch with a mesh strap</strong>
+      </br>
     </td>
     <td align="center">
       <strong>After finetuning the model</strong>
-      <br>
       <img src="kaggcap_220.jpg" alt="Image 2" style="width:400px; height:400px;">
       <br>
       <strong>a watch with silver mesh grid bracelets and circular white dial with a grey bezel and grey</strong>
-      <br>
+      </br>
     </td>
   </tr>
 </table>
