@@ -1,5 +1,7 @@
 # Blip-captioner-on-fashion-datasets
-Finetuning blip on pairs of fashion products (image and a detailed description) to automatise captioning fashion product images)
+Finetuning blip on pairs of fashion products (image and a detailed description) to automatise captioning fashion product images).
+
+The notebook tuto for the finetuning and how to push the finetuned model is available
 ## Packages nécessaires
 Trois packages nécessaires à installer (torch, datasets et transformers) dont deux sont installables depuis le fichier requirements.txt via la commande 
 
