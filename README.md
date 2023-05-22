@@ -28,12 +28,12 @@ Le modèle utilisé est blip: (https://github.com/salesforce/BLIP) pour la gén�
 
 ## Entraînement:
 
-Le modèle a été finetuné sur le dataset pour 80 itérations :
+Le modèle a été finetuné sur le dataset pour 150 itérations :
 
 <table>
   <tr>
     <td align="center">
-      <img src="loss.png" alt="Image" style=width="400" height="300">
+      <img src="losses.png" alt="Image" style=width="400" height="300">
     </td>
   </tr>
   <tr>
@@ -43,7 +43,7 @@ Le modèle a été finetuné sur le dataset pour 80 itérations :
   </tr>
 </table>
 
-On s'est arrêté au bout de 80 itérations afin d'éviter l'overfitting:
+On s'est arrêté au bout de 150 itérations afin d'éviter l'overfitting:
 
 ## Résultats
 
